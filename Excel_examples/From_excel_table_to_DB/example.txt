@@ -1,0 +1,61 @@
+INSERT INTO tab1
+	(a,
+	b,
+	c)
+VALUES 
+	(1a,
+	1b,
+	1c);
+INSERT INTO tab2
+	(a,
+	b)
+VALUES 
+	("3d",
+	3e);
+INSERT INTO tab3
+	(d)
+VALUES 
+	(2);
+
+INSERT INTO tab1
+	(a,
+	b,
+	c)
+VALUES 
+	(2a,
+	2b,
+	2c);
+INSERT INTO tab2
+	(a,
+	b)
+VALUES 
+	("4d",
+	4e);
+INSERT INTO tab3
+	(d)
+VALUES 
+	(3);
+
+INSERT INTO tab1
+	(a,
+	b,
+	c)
+VALUES 
+	(3a,
+	3b,
+	3c);
+INSERT INTO tab3
+	(d)
+VALUES 
+	(4);
+
+INSERT INTO tab3
+	(d)
+VALUES 
+	(5);
+
+INSERT INTO tab3
+	(d)
+VALUES 
+	(6);
+
